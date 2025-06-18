@@ -1,0 +1,27 @@
+[
+{
+    "id": 1,
+    "technician": {
+      "id": 2,
+      "name": "Charles Dickens",
+      "user-type": "technician",
+      "latitude": 40.73061,
+      "longitude": -73.935242,
+      "reviews": [
+        "The technician was very late. He was very rude as well",
+        "I liked the technician"
+      ],
+      "rating": 6
+    },
+    "customer": {
+      "id": 1,
+      "name": "Syed Zulkifal Banuri",
+      "user-type": "customer",
+      "latitude": 40.73061,
+      "longitude": -73.93524
+    },
+    "date": "30/11/23",
+    "time": "11:30 am"
+  }
+]
+  

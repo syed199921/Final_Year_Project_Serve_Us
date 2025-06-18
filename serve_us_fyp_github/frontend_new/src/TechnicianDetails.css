@@ -1,0 +1,18 @@
+.technician-details-card {
+    margin: 2em 2em;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.technician-details-card p {
+    font-size: 16px;
+    color: #333;
+    margin: 10px 0;
+}
+
+.technician-details-card p strong {
+    font-weight: bold;
+    color: #000;
+}
